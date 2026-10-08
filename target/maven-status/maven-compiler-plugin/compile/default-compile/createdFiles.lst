@@ -1,0 +1,11 @@
+patron\SistemaSalud.class
+modelo\Medico.class
+vista\FrmMenuPrincipal.class
+modelo\Paciente.class
+modelo\Persona.class
+modelo\Medicamento.class
+patron\FactoryMedicamento.class
+modelo\Cita.class
+principal\Principal.class
+vista\FrmSistemaSalud.class
+modelo\HistorialClinico.class
