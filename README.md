@@ -1,12 +1,25 @@
-# SistemaSaludJava
-Sistema de Gestión de Salud desarrollado en Java utilizando Programación Orientada a Objetos, Patrones de Diseño y Programación Funcional.
-Implementación completa del sistema
-Creación de documentación inicial del proyecto
-Documentación de clases del modelo
-Documentación de herencia y polimorfismo
-Documentación del patrón Singleton
-Documentación del patrón Factory
-Incorporación de evidencias del sistema
-Actualización de tecnologías utilizadas
-Incorporación de diagrama UML
-Versión final del Sistema de Gestión de Salud
+SistemaSaludJava
+Descripción
+Sistema de Gestión de Salud desarrollado en Java utilizando:
+
+Programación Orientada a Objetos
+Patrones de Diseño
+Programación Funcional
+Tecnologías Utilizadas
+Java
+Apache NetBeans
+Java Swing
+Git y GitHub
+Maven
+Funcionalidades
+Registro de Pacientes
+Registro de Médicos
+Registro de Medicamentos
+Registro de Citas Médicas
+Reportes mediante Stream API
+Patrones Implementados
+Singleton
+Factory
+
+Autores
+Grupo 5
