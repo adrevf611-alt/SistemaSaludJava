@@ -11,3 +11,11 @@ Tecnologías Utilizadas
 - Maven
 - Git y GitHub
 - Stream API
+
+Programación Orientada a Objetos
+El sistema implementa los principales conceptos de POO:
+
+- Encapsulamiento
+- Herencia
+- Polimorfismo
+- Composición
