@@ -24,4 +24,27 @@ Patrones de Diseño
 
 - Singleton (SistemaSalud)
 - Factory (FactoryMedicamento)
+  
+Funcionalidades
+
+- Registro de pacientes.
+- Registro de médicos.
+- Registro de medicamentos.
+- Registro de citas médicas.
+- Gestión de historial clínico.
+- Validación de datos.
+- Generación de reportes mediante Stream API.
+  
+Arquitectura
+- modelo
+- patron
+- vista
+- principal
+  
+Autor
+Grupo 5
+
+Curso
+Lenguajes de Programación
+
 
