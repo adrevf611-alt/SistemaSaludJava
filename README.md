@@ -1,6 +1,7 @@
 SistemaSaludJava
 Descripción
-Sistema de Gestión de Salud desarrollado en Java utilizando:
+Sistema de Gestión de Salud desarrollado en Java que permite administrar pacientes, médicos, medicamentos y citas médicas mediante una interfaz gráfica construida con Java Swing.
+El proyecto fue desarrollado aplicando fundamentos de Programación Orientada a Objetos, patrones de diseño y programación funcional, con el objetivo de demostrar la integración de conceptos estudiados en el curso de Lenguajes de Programación
 
 Programación Orientada a Objetos
 Patrones de Diseño
