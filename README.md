@@ -19,3 +19,9 @@ El sistema implementa los principales conceptos de POO:
 - Herencia
 - Polimorfismo
 - Composición
+
+Patrones de Diseño
+
+- Singleton (SistemaSalud)
+- Factory (FactoryMedicamento)
+
